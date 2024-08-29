@@ -4,21 +4,22 @@ layout: home
 
 hero:
   name: "Punky"
-  text: "AI-powered cyber pet"
-  tagline: My great project tagline
+  text: "Web3 + AI Companion"
+  tagline: Unique and personalized e-doggy with the power of AI and Web3
+  image: /punkys.png
   actions:
     - theme: brand
       text: Introduction
       link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Roadmap
+      link: /roadmap
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Nurturing AI companions through consistent emotional bonding
+    details: Masters can pour out their emotions to Punky, and Punky will reply and comfort its master.
+  - title: Gaining Identity and Belonging
+    details: By holding Punky and continuing bonding with it, Punky HOLDER naturally fits into the punky community, a family filled with caring and love.
+  - title: Trading dynamic Punky AI NFT
+    details: Punky HOLDERs can trade Punky freely on the marketplace, in part or in whole.
 ---
