@@ -9,11 +9,8 @@ hero:
   image: /punkys.png
   actions:
     - theme: brand
-      text: Introduction
-      link: /introduction
-    - theme: alt
-      text: Roadmap
-      link: /roadmap
+      text: Whitepaper
+      link: /whitepaper
 
 features:
   - title: Nurturing AI companions through consistent emotional bonding

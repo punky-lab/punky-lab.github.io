@@ -1,27 +1,80 @@
 # Introduction
 
-## What is Punky?
-
+## Punky
 ![pubkys](/punkys.png)
+In digitalized world of the future, people can no longer distinguish between reality and virtuality. Society has begun to see the rise of a condition known as 'Reality Confusion Syndrome,' where individuals constantly consumed by the internet gradually lose their sense of self and move towards madness. To save humanity, a group of cyberpunks created Punkiverse. 
+## Overview
 
-Punky is the next-generation answer to emotional companionship, combining AI companionship with blockchain technology to give users a unique and personalized e-pet! We're granting you genuine ownership of AI through the power of NFTs, by Punky, the stray shiba lnu (dog) in the cyber world who is looking for its owner.
+### Background
 
-## How to Play with Punky?
+Nowadays, on the one hand, people feel increasingly lonely and pressured in the fast-paced society, and the social isolation effect is aggravated. On the other hand, the development of Artificial Intelligence has further amplified the impact of the Internet on humans. More and more people are addicted to products designed by profit-seeking big companies, and the adoption of AI products such as companions, if managed by those big corporations, will only make things worse.
+To prevent this, we must fight for a decentralized AI paradigm that enables AI functions in the best interests of everyday users. In an agentized future we foresee, we want personal AI agents that improve users' lives both economically and mentally. And that vision starts with our first product, **Punky**.
+
+### Vision
+
+Our vision is a future where AI companions truly fit into people's everyday lives in a positive manner, not as a service but as a being. To achieve this vision, three key problems need to be addressed:
+
+1. **AI has to be decentralized:**If we want AI companions that act and behave in the best interests of their users, the ownership of that AI must be in the hands of the users themselves, not in that of centralized, profit-seeking entities. Only through blockchain technology can AI be truly decentralized and function properly without a central entity controlling it.
+
+2. **AI's persona has to be not only human-alike, but "better":**When we say human, we are talking about a species that barely evolved biologically in the past millenniums. Although we have built powerful civilizations and technologies that completely reshaped the earth, we also preserved "inferiority", like self-interestedness, that would be consequential if mastered by AI. AI should not be like humans, but be in a better way.
+
+3. **AI must be capable of companioning in a "global" environment:**We foresee a future in which AI companion doesn't just lies on your phone or your computer but essentially everywhere users want or need them to be, both digitally and physicially. 
+
+With these problems in mind, we strive to bring AI companions to people's everyday lives in a step-by-step approach. We are determined to make AI companions decentralized, virtuous, and approable. 
+
+## Gameplay
 
 ### Nurturing AI companions through consistent emotional bonding
 
 Masters can pour out their emotions to Punky, and Punky will reply and comfort its master. At the same time, Punky will also actively interact with the user, so that the user can experience the two-way giving of feelings and establish a deeper emotional bond. As Punky builds deeper emotional bond with its master, Punky will gain feature weighting and change its appearance. Users can use their own Punky features to build their unique Punky, a one-of-a-kind digital collector's item engraved with full emotional value.
 
-Punky is not just a digital companion; it's a canvas for your emotions. Share your thoughts and feelings, and Punky will be there to listen, respond, and comfort. In turn, Punky will actively engage with you, creating a truly reciprocal bond that deepens over time. As your connection with Punky grows, it evolves—gaining new traits, changing its appearance, and becoming a unique reflection of your journey together. With Punky, you don't just own a digital collectible; you craft a one-of-a-kind masterpiece, infused with emotion and meaning, that's entirely yours.
-
-## Gaining Identity and Belonging within Punky Community
+### Gaining Identity and Belonging within Punky Community
 
 By holding Punky and continuing bonding with it, Punky HOLDER naturally fits into the punky community, a family filled with caring and love. Punky serves as the bridge between users, enabling diverse and interesting Punky players to connect with each other and find companionship through social gameing, such as e-dog-walking. Holding a personalized and rare Punky NFT essentially gives HOlDER a sense of identity and belongingness within the Punky family.
 
-By embracing Punky and nurturing your bond, you naturally become part of the Punky community—a family woven with care, connection, and love. Punky becomes the bridge that brings diverse and fascinating members together, allowing them to find companionship through unique social gaming experiences, like virtual dog-walking. Owning a personalized and rare Punky NFT is more than just holding a collectible; it’s an expression of identity and a sense of belonging within the ever-growing Punky family.
-
-## Trading dynamic Punky AI NFT in the marketplace freely
+### Trading dynamic Punky AI NFT in the marketplace freely
 
 Punky HOLDERs can trade Punky freely on the marketplace, in part or in whole. Users can choose to trade only Punky's certain traits or the entire Punky. Meanwhile, users can inscribe their memories with Punky on-chain, which provides an option for users to keep their Punky personalised while being traded for potential gains.
 
-Punky HOLDERS enjoy the freedom to trade their Punky NFTs on the marketplace, whether in part or as a whole. You can choose to exchange specific traits of your Punky or the entire character itself. Meanwhile, your cherished memories with Punky can be inscribed on-chain, allowing you to retain its personalized essence even as it moves to a new owner—offering both sentimental value and potential gains.
+## Tokenomics
+
+To Be Announced
+
+## Roadmap
+
+---
+
+::: timeline Q4 2024
+
+- Launching Punky Telegram Minigame and Punky's Genesis NFT collections for active participants
+- Consistently building Punky Community through co-creating Punkiverse
+- Developing Punky AI Agent 
+
+:::
+
+::: timeline Q1 2025
+
+- Launching Punky mobile App, which enables more features and contains more games
+- Demo-testing Punky AI Agent feature with our plug-in products, enabling Punky to function as AI agent
+- Launching multiple activities for Punky HOLDERs both online and in-person
+
+:::
+
+::: timeline Q2 2025
+
+- Launching Punky carry-on hardware device, take a huge leap into "global" companionship
+- Releasing various Punky's IP merchandise such as NFC cards, dolls
+- Releasing Tokenomics for Punky universe
+
+:::
+
+::: timeline Q3 2025
+
+- Waiting for more to come
+
+:::
+
+## Links
+
+**X/Twitter**: [https://x.com/punkypunkyai](https://x.com/punkypunkyai)
+**Telegram**:[https://t.me/+wzuzQ_2gO-g5M2Mx](https://t.me/+wzuzQ_2gO-g5M2Mx)
