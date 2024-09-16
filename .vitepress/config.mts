@@ -9,21 +9,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Introduction", link: "/introduction" },
-      { text: "Roadmap", link: "/roadmap" },
+      { text: "Whitepaper", link: "/whitepaper" },
     ],
 
     sidebar: [
       {
         text: "About Punky",
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Roadmap", link: "/roadmap" },
+          { text: "Whitepaper", link: "/whitepaper" },
         ],
-      },
-      {
-        text: "About our team",
-        items: [{ text: "Members", link: "/introduction" }],
       },
     ],
 
@@ -35,7 +29,7 @@ export default defineConfig({
       {
         icon: "twitter",
         link: "https://x.com/punkypunkyai",
-      },
+      }
     ],
 
     footer: {
