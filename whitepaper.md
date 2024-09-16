@@ -1,4 +1,4 @@
-# Introduction
+# Whitepaper
 
 ## Punky
 ![pubkys](/punkys.png)
