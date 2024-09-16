@@ -14,11 +14,11 @@ To prevent this, we must fight for a decentralized AI paradigm that enables AI f
 
 Our vision is a future where AI companions truly fit into people's everyday lives in a positive manner, not as a service but as a being. To achieve this vision, three key problems need to be addressed:
 
-1. **AI has to be decentralized:**If we want AI companions that act and behave in the best interests of their users, the ownership of that AI must be in the hands of the users themselves, not in that of centralized, profit-seeking entities. Only through blockchain technology can AI be truly decentralized and function properly without a central entity controlling it.
+1. **AI has to be decentralized** : If we want AI companions that act and behave in the best interests of their users, the ownership of that AI must be in the hands of the users themselves, not in that of centralized, profit-seeking entities. Only through blockchain technology can AI be truly decentralized and function properly without a central entity controlling it.
 
-2. **AI's persona has to be not only human-alike, but "better":**When we say human, we are talking about a species that barely evolved biologically in the past millenniums. Although we have built powerful civilizations and technologies that completely reshaped the earth, we also preserved "inferiority", like self-interestedness, that would be consequential if mastered by AI. AI should not be like humans, but be in a better way.
+2. **AI's persona has to be not only human-alike, but "better"** : When we say human, we are talking about a species that barely evolved biologically in the past millenniums. Although we have built powerful civilizations and technologies that completely reshaped the earth, we also preserved "inferiority", like self-interestedness, that would be consequential if mastered by AI. AI should not be like humans, but be in a better way.
 
-3. **AI must be capable of companioning in a "global" environment:**We foresee a future in which AI companion doesn't just lies on your phone or your computer but essentially everywhere users want or need them to be, both digitally and physicially. 
+3. **AI must be capable of companioning in a "global" environment** : We foresee a future in which AI companion doesn't just lies on your phone or your computer but essentially everywhere users want or need them to be, both digitally and physicially. 
 
 With these problems in mind, we strive to bring AI companions to people's everyday lives in a step-by-step approach. We are determined to make AI companions decentralized, virtuous, and approable. 
 
