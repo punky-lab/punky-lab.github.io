@@ -24,6 +24,8 @@ With these problems in mind, we strive to bring AI companions to people's everyd
 
 ## Gameplay
 
+**Punky Shiba Inu, our MVP**, is a GameFi + AI Companion Telegram Minigame which deploys on Solana. Within this game, users can build healthy relationships with both their personalized AI virtual pets and other players.
+
 ### Nurturing AI companions through consistent emotional bonding
 
 Masters can pour out their emotions to Punky, and Punky will reply and comfort its master. At the same time, Punky will also actively interact with the user, so that the user can experience the two-way giving of feelings and establish a deeper emotional bond. As Punky builds deeper emotional bond with its master, Punky will gain feature weighting and change its appearance. Users can use their own Punky features to build their unique Punky, a one-of-a-kind digital collector's item engraved with full emotional value.
@@ -76,5 +78,5 @@ To Be Announced
 
 ## Links
 
-**X/Twitter**: [https://x.com/punkypunkyai](https://x.com/punkypunkyai)
-**Telegram**:[https://t.me/+wzuzQ_2gO-g5M2Mx](https://t.me/+wzuzQ_2gO-g5M2Mx)
+- **X/Twitter**: [https://x.com/punkypunkyai](https://x.com/punkypunkyai)
+- **Telegram**:[https://t.me/+wzuzQ_2gO-g5M2Mx](https://t.me/+wzuzQ_2gO-g5M2Mx)
