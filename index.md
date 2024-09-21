@@ -6,7 +6,6 @@ hero:
   name: "Punky"
   text: "MVP Coming Soon on Telegram & Solana"
   tagline: Our vision is a future where AI companions truly fit into people's everyday lives in a positive manner, not as a service but as a being. 
-  image: /punkys.png
   actions:
     - theme: brand
       text: Whitepaper
