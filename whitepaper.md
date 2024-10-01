@@ -1,8 +1,10 @@
 # Whitepaper
 
 ## Punky
+
 ![pubkys](/punkys.png)
-In digitalized world of the future, people can no longer distinguish between reality and virtuality. Society has begun to see the rise of a condition known as 'Reality Confusion Syndrome,' where individuals constantly consumed by the internet gradually lose their sense of self and move towards madness. To save humanity, a group of cyberpunks created Punkiverse. 
+In digitalized world of the future, people can no longer distinguish between reality and virtuality. Society has begun to see the rise of a condition known as 'Reality Confusion Syndrome,' where individuals constantly consumed by the internet gradually lose their sense of self and move towards madness. To save humanity, a group of cyberpunks created Punkiverse.
+
 ## Overview
 
 ### Background
@@ -18,9 +20,9 @@ Our vision is a future where AI companions truly fit into people's everyday live
 
 2. **AI's persona has to be not only human-alike, but "better"** : When we say human, we are talking about a species that barely evolved biologically in the past millenniums. Although we have built powerful civilizations and technologies that completely reshaped the earth, we also preserved "inferiority", like self-interestedness, that would be consequential if mastered by AI. AI should not be like humans, but be in a better way.
 
-3. **AI must be capable of companioning in a "global" environment** : We foresee a future in which AI companion doesn't just lies on your phone or your computer but essentially everywhere users want or need them to be, both digitally and physicially. 
+3. **AI must be capable of companioning in a "global" environment** : We foresee a future in which AI companion doesn't just lies on your phone or your computer but essentially everywhere users want or need them to be, both digitally and physicially.
 
-With these problems in mind, we strive to bring AI companions to people's everyday lives in a step-by-step approach. We are determined to make AI companions decentralized, virtuous, and approable. 
+With these problems in mind, we strive to bring AI companions to people's everyday lives in a step-by-step approach. We are determined to make AI companions decentralized, virtuous, and approable.
 
 ## Gameplay
 
@@ -50,7 +52,7 @@ To Be Announced
 
 - Launching Punky Telegram Minigame and Punky's Genesis NFT collections for active participants
 - Consistently building Punky Community through co-creating Punkiverse
-- Developing Punky AI Agent 
+- Developing Punky AI Agent
 
 :::
 
@@ -75,6 +77,10 @@ To Be Announced
 - Waiting for more to come
 
 :::
+
+## Core Team
+
+![core team](/core-team.jpg)
 
 ## Links
 
